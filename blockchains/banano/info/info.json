@@ -1,0 +1,22 @@
+{
+  "name": "Banano",
+  "website": "https://banano.cc/",
+  "source_code": "https://github.com/BananoCoin/",
+  "white_paper": "https://banano.cc/yellowpaper/",
+  "short_description": "Banano is a Feeless, Instant, Rich in Potassium Cryptocurrency Powered by DAG Technology Disrupting the Meme Economy.",
+  "description": "",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/bananocoin",
+      "handle": "bananocoin"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://reddit.com/r/banano",
+      "handle": "banano"
+    }
+  ],
+  "explorer": "https://creeper.banano.cc/",
+  "research": "https://www.coingecko.com/en/coins/banano"
+}
